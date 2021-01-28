@@ -18,7 +18,7 @@ This is my Developer Portfolio.It contains a list of projects I have Been workin
 * Animated CSS
 
 ## Live Demo
-to view live demo <a href="https://luciahroyalty101.github.io/portfolio/">click here</a>
+to view live demo <a href="https://luciahroyalty101.github.io/POrtfolio/">click here</a>
 
 ## Support and Contact
 * <a href="https://github.com/luciahroyalty101">Github<a/>
