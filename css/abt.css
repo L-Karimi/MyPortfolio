@@ -1,0 +1,101 @@
+body{padding:20px 50px 20px 20px;}
+.image{text-align: center;}
+.image img {width:40%;border-radius:50%}
+.about{
+  border:1px solid #eee;
+  padding:50px 0px 50px 50px;
+}
+.about h1{
+  font-family: 'Pacifico', cursive;
+  text-transform: capitalize;
+}
+.about p{
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+}
+.links{
+  margin-top: 25px;
+  margin-bottom:25px
+}
+.tab{
+  background: black;
+  height:50px;
+  padding-top: 10px
+}
+.tab:hover{background-color:#999}
+.links a{
+  color:white;
+  padding-top: 20px;
+  text-align: center;
+  font-size:20px;
+  font-weight: 600
+}
+.second-child{border-left: 2px solid white; border-right: 2px solid white;}
+.projects h3{
+  font-family: 'Fira Sans', sans-serif;
+}
+.projects p{
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+}
+.skills{
+  margin-top:20px;
+}
+.icons{
+  text-align: right;
+}
+.icons i {
+  font-size:40px;
+}
+.progress-bar{
+  height:50px;
+  padding-top: 15px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+.progress{height:50px}
+.progress-bar{padding-top: 15px;font-weight: 600; color: white}
+.skills span{font-family: 'Notable', sans-serif;}
+.skills .one{background:#E23E39}
+.skills .three{background:#EAD54D}
+.skills .four{background: #58D3F3}
+.skills .five{background: #76AF5F}
+.skills .six{background: #563D7C}
+.skills .seven{background:#00D1B2}
+.skills .ten{background:#00D1B2}
+.skills .nine{background:#1a77ce}
+.skills .eight{background:#cad80a}
+.p{  font-family: 'Pacifico', cursive;font-size:30px;text-align: center;}
+
+
+@media only screen and (max-width: 600px) {
+  body{
+    padding: 20px;
+
+  }
+  .second-child{
+    border-left: unset;
+    border-right: unset;
+    border-top:1px solid white;
+    border-bottom: 1px solid white;
+  }
+  .about{
+    padding: unset;
+    padding-left: 20px;
+    margin-top: 20px
+  }
+  .about p{
+    font-size: 25px
+  }
+  .about h1{
+    font-size: 35px
+  }
+  .projects .col-md-4{
+    padding-left: unset;
+    padding-right: unset
+  }
+
+}
