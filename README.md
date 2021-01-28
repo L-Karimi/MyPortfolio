@@ -18,15 +18,15 @@ This is my Developer Portfolio.It contains a list of projects I have Been workin
 * Animated CSS
 
 ## Live Demo
-to view live demo <a href="https://estherwangari.github.io/portfolio/">click here</a>
+to view live demo <a href="https://luciahroyalty101.github.io/portfolio/">click here</a>
 
 ## Support and Contact
-* <a href="https://github.com/EstherWangari">Github<a/>
-* <a href="mailto:wangarie0@gmail.com">Gmail</a>
+* <a href="https://github.com/luciahroyalty101">Github<a/>
+* <a href="mailto:luciahkei101@gmail.com">Gmail</a>
 
 
-## LICENCE (c) (2018)
-copyright (c) <2018> **LUCY WANAGECI KARIMI**
+## LICENCE (c) (2021)
+copyright (c) <2021> **LUCY WANAGECI KARIMI**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
