@@ -12,13 +12,14 @@ This is my Developer Portfolio.It contains a list of projects I have Been workin
 
 
 ## Technologies used
-* HTML and HTML5
-* CSS and CSS3
+* HTML5
+* CSS3
 * Bootstrap
 * Animated CSS
+* Javascript
 
 ## Live Demo
-to view live demo <a href="https://luciahroyalty101.github.io/PORTFOLIO/">click here</a>
+to view live demo <a href="https://lucyportfolio.netlify.app/">click here</a>
 
 ## Support and Contact
 * <a href="https://github.com/L-Karimi">Github<a/>
