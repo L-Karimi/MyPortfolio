@@ -1,40 +1,146 @@
-body{background-color: black; color:white; height:100vh}
-.heading{padding-top:10px;padding-left:20px;padding-right:20px;font-size:2em;font-family: 'Niramit', sans-serif;}
-#main{text-align: center;padding-top:2%;font-size:4em;font-family: 'Slabo 27px', serif;}
-#main span{color:#A3FF45;text-transform: lowercase;}
-#main button{background:green; border-radius:50px}
-#main .check{font-size:0.5em;}
-#main i {color:#A3FF45;}
-.wrap{height:100vh;background-color:#FDFDFF;overflow:hidden;}
-.bg{background-color:#e3e;width:100%;height:200%;position:absolute;top:-50%;left:-66%;transform:rotate(24deg);background-image: url(../images/web.jpg);background-size: cover;background-position: center;}
-.problem {text-align: center;color:#fff;font-size:60px;padding-top:200px;font-weight:700;text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;}
-ul.menu{padding:0;margin:0;text-align:right;padding-top:15px;padding-right:320px;}
-ul.menu li{display:inline-block;padding-left: 50px;font-size:2em;color:black;}
-ul.menu a{color:#585B61;font-size:1.5em;font-weight:900;}
-.text{padding-top:40%;display: block;line-height:5;}
-.wrap img{height:70%;}
-.text a.btn{color:#fff;background-color:#48C8FA;padding-top: 10px;padding-bottom:10px;width:50%;border-radius:150px;border:none;margin-bottom:5px;font-size:1.5em;}
-.large{display:block;float:right;margin-top:-120px;}
-.large i{display: block;padding-bottom:20px;font-size: 2em;}
-.text h1{font-family:'Architects Daughter', cursive;letter-spacing:.1rem;}
-.text h2{font-size:4em;font-weight:800;font-family:'Chela One', cursive;color:rgb(30, 33, 38);letter-spacing:.1rem;}
-.text h3{font-family:'Poiret One', cursive;letter-spacing:.5rem;font-weight: 700;font-size:4em;}
-.name{padding-left: 50px;}
+body {
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+.heading {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 2em;
+  font-family: "Niramit", sans-serif;
+}
+#main {
+  text-align: center;
+  padding-top: 2%;
+  font-size: 4em;
+  font-family: "Slabo 27px", serif;
+}
+#main span {
+  color: #a3ff45;
+  text-transform: lowercase;
+}
+#main button {
+  background: green;
+  border-radius: 50px;
+}
+#main .check {
+  font-size: 0.5em;
+}
+#main i {
+  color: #a3ff45;
+}
+.wrap {
+  height: 100vh;
+  background-color: #fdfdff;
+  overflow: hidden;
+}
+.row projects{
+  height: 100px;
+  width: 100px;
+}
+.bg {
+  background-color: #e3e;
+  width: 100%;
+  height: 200%;
+  position: absolute;
+  top: -50%;
+  left: -66%;
+  transform: rotate(24deg);
+  background-image: url(../images/web.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.problem {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+  padding-top: 200px;
+  font-weight: 700;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+ul.menu {
+  padding: 0;
+  margin: 0;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 320px;
+}
+ul.menu li {
+  display: inline-block;
+  padding-left: 50px;
+  font-size: 2em;
+  color: black;
+}
+ul.menu a {
+  color: #585b61;
+  font-size: 1.5em;
+  font-weight: 900;
+}
+.text {
+  padding-top: 40%;
+  display: block;
+  line-height: 5;
+}
+.wrap img {
+  height: 70%;
+}
+.text a.btn {
+  color: #fff;
+  background-color: #48c8fa;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 50%;
+  border-radius: 150px;
+  border: none;
+  margin-bottom: 5px;
+  font-size: 1.5em;
+}
+.large {
+  display: block;
+  float: right;
+  margin-top: -120px;
+}
+.large i {
+  display: block;
+  padding-bottom: 20px;
+  font-size: 2em;
+}
+.text h1 {
+  font-family: "Architects Daughter", cursive;
+  letter-spacing: 0.1rem;
+}
+.text h2 {
+  font-size: 4em;
+  font-weight: 800;
+  font-family: "Chela One", cursive;
+  color: rgb(30, 33, 38);
+  letter-spacing: 0.1rem;
+}
+.text h3 {
+  font-family: "Poiret One", cursive;
+  letter-spacing: 0.5rem;
+  font-weight: 700;
+  font-size: 4em;
+}
+.name {
+  padding-left: 50px;
+}
 
 @media only screen and (max-width: 600px) {
-  body{
-    height:100vh
+  body {
+    height: 100vh;
   }
-  #main{
+  #main {
     font-size: 2em;
     padding-top: 100px;
   }
 
-  .second-child{
+  .second-child {
     border-left: unset;
     border-right: unset;
   }
-  script{
-    display: none
+  script {
+    display: none;
   }
 }
