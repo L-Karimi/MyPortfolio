@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Developed By **LUCY KARIMI**
+#### Developed By **Lucy Karimi**
 
 ## Description
 This is my Developer Portfolio.It contains a list of projects I have Been working on  and my contacts.
@@ -21,12 +21,12 @@ This is my Developer Portfolio.It contains a list of projects I have Been workin
 to view live demo <a href="https://luciahroyalty101.github.io/PORTFOLIO/">click here</a>
 
 ## Support and Contact
-* <a href="https://github.com/luciahroyalty101">Github<a/>
+* <a href="https://github.com/L-Karimi">Github<a/>
 * <a href="mailto:luciahkei101@gmail.com">Gmail</a>
 
 
 ## LICENCE (c) (2021)
-copyright (c) <2021> **LUCY WANAGECI KARIMI**
+copyright (c) <2021> **Lucy WAngeci Karimi**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
