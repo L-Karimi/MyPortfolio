@@ -1,8 +1,12 @@
 body {
   padding: 20px 50px 20px 20px;
 }
+
 .image {
   text-align: center;
+}
+.new{
+  display: flex;
 }
 .image img {
   width: 40%;

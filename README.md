@@ -23,11 +23,11 @@ to view live demo <a href="https://lucyportfolio.netlify.app/">click here</a>
 
 ## Support and Contact
 * <a href="https://github.com/L-Karimi">Github<a/>
-* <a href="mailto:luciahkei101@gmail.com">Gmail</a>
+* <a href="mailto:karimiluccy@gmail.com">Gmail</a>
 
 
 ## LICENCE (c) (2021)
-copyright (c) <2021> **Lucy WAngeci Karimi**
+copyright (c) <2022> **Lucy Wangeci Karimi**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
