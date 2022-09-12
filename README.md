@@ -24,6 +24,8 @@ to view live demo <a href="https://lucyportfolio.netlify.app/">click here</a>
 ## Support and Contact
 * <a href="https://github.com/L-Karimi">Github<a/>
 * <a href="mailto:karimiluccy@gmail.com">Gmail</a>
+* <a href="LinkedIn:https://www.linkedin.com/in/lucy-wangeci-karimi/">LinkedIn</a>
+
 
 
 ## LICENCE (c) (2021)
